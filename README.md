@@ -1,7 +1,3 @@
-# Tauri + SvelteKit + TypeScript
+# OpenKanban
 
-This template should help get you started developing with Tauri, SvelteKit and TypeScript in Vite.
-
-## Recommended IDE Setup
-
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
+OpenKanban is an open-source trello-style offline kanban board type task management system that is currently being worked on by me. It stores data on your computer since I don’t quite fancy having my data on the cloud, which is basically someone else’s computer.
